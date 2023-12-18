@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PigLation2 {
+public class PigLatin2 {
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
 
